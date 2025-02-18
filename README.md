@@ -37,12 +37,26 @@ cd SMS-Bomber
 ```bash
 pip install -r requirements.txt
 ```
-3. Set up the environment file `(.env)`:
+3. Directory Structure📂:
+```bash
+   msg-bomber/
+   ├── main.py
+   ├── .env
+   ├── .gitignore
+   └── README.md
+```
+
+4. Set up the environment file `(.env)`:
 - Create a `.env` file in the root directory of the project
-- Add sensitive information such as API keys in this file. This file is ignored in the repository for security reasons.
+- Add sensitive information such as API keys in this file. This file is `ignored` in the repository for security reasons.
 Example: 
 ```ini
-API_KEY="your_api_key_here"
+API_KEY
+TWILIO_ACCOUNT_SID="your_api_key_here"
+TWILIO_AUTH_TOKEN=="your_api_key_here"
+TWILIO_PHONE_NUMBER="+1XXXXXXXXXX" 
+RECIPIENT_PHONE_NUMBER="++12XXXXXXXX"
+
 ```
 ## Usage
 - Ensure that you have a valid API key from a service that allows sending SMS.
