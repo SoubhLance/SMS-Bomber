@@ -2,8 +2,11 @@
 
 A simple SMS Bombing tool built using Python. This tool sends a large number of SMS messages to a given phone number. **Note**: Use this tool responsibly and legally. Do not use it to cause harm, harassment, or break any terms of service agreements.
 
-## Important🚨:
+## Important 🚨 Notes:
 ### ❗⚠️This tool is strictly for educational purposes only. It is not intended for malicious use or to cause harm in any way. Please use it responsibly and ensure that it complies with legal regulations and terms of service. The author is not responsible for any misuse of this tool.❗⚠️
+- Do not use this tool for malicious purposes. Sending unsolicited messages may be illegal in your country.
+- Always respect the privacy and consent of others.
+- The `.env` file is not visible on GitHub due to security concerns. Ensure you store your keys and sensitive data in this file securely.
 
 ---
 
@@ -51,10 +54,8 @@ python sms_bomber.py
 ```
 ### You will be prompted to enter the target phone number and the number of messages to send.
 
-## Important Notes
-- Do not use this tool for malicious purposes. Sending unsolicited messages may be illegal in your country.
-- Always respect the privacy and consent of others.
-- The `.env` file is not visible on GitHub due to security concerns. Ensure you store your keys and sensitive data in this file securely.
+## ScreenShot
+   ![WhatsApp Image 2025-02-18 at 19 23 38_962318e9](https://github.com/user-attachments/assets/47493daf-a5c2-45db-8882-d8b0b43cfd15)
 
 ## Contributing
   If you have any improvements or suggestions, feel free to fork the repository and submit a pull request. Contributions are always welcome!
@@ -64,3 +65,4 @@ python sms_bomber.py
   ```CSHARP
     You can copy this and paste it into your `README.md` file!
 ```
+
