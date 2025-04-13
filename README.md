@@ -65,6 +65,7 @@ RECIPIENT_PHONE_NUMBER="++12XXXXXXXX"
 
 ```bash
 python sms_bomber.py
+
 ```
 ### You will be prompted to enter the target phone number and the number of messages to send.
 
@@ -79,4 +80,13 @@ python sms_bomber.py
   ```CSHARP
     You can copy this and paste it into your `README.md` file!
 ```
+
+## Support
+
+If you have any questions, issues, or need assistance with this project, feel free to reach out!
+
+- Email : [studysadhu2022@gmail.com](mailto:studysadhu2022@gmail.com)
+
+
+
 
