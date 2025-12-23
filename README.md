@@ -77,9 +77,6 @@ python sms_bomber.py
 
 ## License
   This project is open-source and available under the MIT License.
-  ```CSHARP
-    You can copy this and paste it into your `README.md` file!
-```
 
 ## Support
 
