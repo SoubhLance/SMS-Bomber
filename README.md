@@ -1,6 +1,5 @@
-# SMS Bomber
-
-A simple SMS Bombing tool built using Python. This tool sends a large number of SMS messages to a given phone number. **Note**: Use this tool responsibly and legally. Do not use it to cause harm, harassment, or break any terms of service agreements.
+# Bulk-SMS-Scheduler
+A simple Bulk-SMS-Scheduler tool built using Python. This tool sends a large number of SMS messages to a given phone number. **Note**: Use this tool responsibly and legally. Do not use it to cause harm, harassment, or break any terms of service agreements.
 
 ## Important 🚨 Notes⚠️:
 ### This tool is strictly for educational purposes only. It is not intended for malicious use or to cause harm in any way. Please use it responsibly and ensure that it complies with legal regulations and terms of service. The author is not responsible for any misuse of this tool.
